@@ -1,4 +1,4 @@
-# 🌟 [Your Name]'s Portfolio
+# 🌟 Ankit Yadav's Portfolio
 
 Welcome to my portfolio repository! This is where I showcase my skills and experience in web and mobile app development. Take a look around, and feel free to reach out if you'd like to collaborate or learn more!
 
@@ -6,7 +6,7 @@ Welcome to my portfolio repository! This is where I showcase my skills and exper
 
 ## 🚀 About Me
 
-I'm a passionate software developer with experience in **web and mobile app development**. I love building intuitive, engaging, and responsive applications using the latest technologies. My focus areas include **React**, **Next.js**, **TypeScript**, and **React Native** for creating seamless cross-platform applications.
+I'm Ankit Yadav, a passionate software developer with experience in **web and mobile app development**. I love building intuitive, engaging, and responsive applications using the latest technologies. My focus areas include **React**, **Next.js**, **TypeScript**, and **React Native** for creating seamless cross-platform applications.
 
 ## 🛠️ Skills
 
